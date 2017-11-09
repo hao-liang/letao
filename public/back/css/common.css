@@ -1,0 +1,23 @@
+.beijin {
+    background-color: #222d32;
+}
+.beijin .container .col-md-4 {
+    border-radius: 5px;
+    margin-top: 150px;
+}
+.beijin .container .col-md-4 .denglu-top {
+    height: 60px;
+    background-color: #337ab7;
+    text-align: center;
+}
+.beijin .container .col-md-4 .denglu-top h4 {
+    line-height: 60px;
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+    border: 0;
+}
+.beijin .container .col-md-4 .denglu-botton {
+    background-color: #fff;
+    padding: 15px 15px 20px;
+}
